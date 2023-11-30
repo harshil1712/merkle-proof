@@ -1,0 +1,15 @@
+{
+  "name": "merkle-proof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Harshil Agrawal <hey@harshil.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "merkletreejs": "^0.3.11"
+  }
+}
